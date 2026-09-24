@@ -59,7 +59,7 @@ def home():
                 📞 Телефон 89108273813
             </a>
 
-            <a href="@VeneraNizameeva" target="_blank">
+            <a href="https://t.me/VeneraNizameeva" target="_blank">
                 ✈️ Telegram
             </a>
 
